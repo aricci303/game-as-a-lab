@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "step-00-game-loop"
+		},
+		{
+			"path": "step-01-first-modelling"
+		},
+		{
+			"path": "step-02-input-proc"
+		},
+		{
+			"path": "step-03-collisions"
+		},
+		{
+			"path": "step-04-score-and-events"
+		},
+		{
+			"path": "step-05-component"
+		},
+		{
+			"path": "step-06-game-over"
+		},
+		{
+			"path": "step-07-mosquito-AI"
+		},
+		{
+			"path": "step-08-more-physics"
+		},
+		{
+			"path": "step-09-multiple-balls"
+		},
+		{
+			"path": "step-10-multiplayer"
+		}
+	]
+}
